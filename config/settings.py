@@ -25,7 +25,7 @@ SECRET_KEY = '^d!haw8&a)aqo(j8)st%jqc6g!ejgg8oijvo5url(!(g))$)ku'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://texnicyshopsbotdjangopart-production.up.railway.app/"]
 
 
 # Application definition
